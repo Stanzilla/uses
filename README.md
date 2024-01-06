@@ -5,7 +5,7 @@
 - Font: JetBrains Mono Nerd Font
 - Theme: Catppuccin Mocha
 - Icons: Material Icon Theme & Material Product Icons
-- Extensions: [Full list](https://gist.github.com/Stanzilla/060a85eb0911d4a9980180ace1831697).
+- Extensions: [Gist](https://gist.github.com/Stanzilla/060a85eb0911d4a9980180ace1831697)
 
 ## Terminal
 - Windows: Windows Terminal with Starship prompt on zsh and pwsh
@@ -15,7 +15,7 @@
 
 ## Desktop apps
 - Browser: Google Chrome, most of the others installed for testing and playing around
-- Browser Extensions: [Full list](https://gist.github.com/Stanzilla/ba2e02ca676d8ee58fab181e0183cff5).
+- Browser Extensions: [Gist](https://gist.github.com/Stanzilla/ba2e02ca676d8ee58fab181e0183cff5)
 - Git: Fork
 - Video Processing: Handbrake
 - Image Processing: Crushee
