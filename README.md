@@ -5,6 +5,7 @@
 - Font: JetBrains Mono Nerd Font.
 - Theme: Catppuccin Mocha.
 - Icons: Material Icon Theme & Material Product Icons.
+- Extensions: [Full list](https://gist.github.com/Stanzilla/060a85eb0911d4a9980180ace1831697)
 
 ## Terminal
 - Windows: Windows Terminal with Starship prompt on zsh and pwsh.
